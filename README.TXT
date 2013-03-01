@@ -7,7 +7,5 @@ Brachito Jr.
 Pull De Canuto
 Edicion :D
 Failed Pull
-Do you like it now!
-Notification Test
 Chchchchanges #3
 Otra mas
